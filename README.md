@@ -23,11 +23,6 @@ Description
 * TheMovieDBApp is movies app built with android architecture components and the repository pattern (LiveData, ViewModel, Room, Paging).<br>
 * TheMovieDb API is used to fetch movie details.
 
-TO-DO's
----------
-* Code clean up.
-* Improve UI/UX.
-
 Screenshots
 -----------
 * **Fragments**<br>
